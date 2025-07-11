@@ -39,7 +39,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** wit
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![Speech Recognition](https://img.shields.io/badge/STT%20&%20Audio%20Processing-FF6B6B?style=for-the-badge)
 
-### Tools & Technologies
+### Version Control & Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
